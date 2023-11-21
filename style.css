@@ -1,0 +1,12 @@
+.box{
+    height: 100vh;
+    width: 100vw;
+    background-color: azure;
+    color: brown;
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 2rem;
+}
